@@ -2,19 +2,19 @@
 <h2>Gustavo da Silva Dias RM550820</h2>
 Este é um aplicativo simples de gerenciamento de consultas médicas, com funcionalidades para exibir, atualizar e persistir dados utilizando AsyncStorage. O app permite que o usuário visualize suas consultas salvas, atualize informações de consultas e mantenha os dados salvos mesmo após o fechamento do aplicativo.
 
-Funcionalidades
+# Funcionalidades
 Exibição das Consultas Salvas: A tela inicial exibe uma lista das consultas salvas, permitindo ao usuário visualizar rapidamente suas consultas agendadas.
 
 Atualização da Lista de Consultas: O usuário pode adicionar novas consultas ou editar consultas já existentes diretamente na interface do aplicativo.
 
 Persistência de Dados com AsyncStorage: Todas as consultas são salvas localmente utilizando o AsyncStorage, garantindo que os dados sejam mantidos mesmo quando o aplicativo for fechado.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 React Native: Framework para desenvolvimento de aplicativos móveis.
 
 AsyncStorage: Utilizado para persistir dados localmente no dispositivo do usuário.
 
-Como Rodar o Projeto
+# Como Rodar o Projeto
 Pré-requisitos
 Node.js instalado (versão 14 ou superior).
 
@@ -41,7 +41,7 @@ bash
 Copiar
 Editar
 yarn install
-# ou
+ ou
 npm install
 Inicie o servidor de desenvolvimento:
 
@@ -49,7 +49,7 @@ bash
 Copiar
 Editar
 yarn start
-# ou
+ ou
 npm start
 Abra o aplicativo no seu emulador ou dispositivo físico utilizando o Expo ou outra ferramenta de sua preferência.
 
