@@ -1,4 +1,5 @@
 <h1>Projeto de Consultas - Aplicativo de Gerenciamento de Consultas</h1>
+<h2>Gustavo da Silva Dias RM550820</h2>
 Este é um aplicativo simples de gerenciamento de consultas médicas, com funcionalidades para exibir, atualizar e persistir dados utilizando AsyncStorage. O app permite que o usuário visualize suas consultas salvas, atualize informações de consultas e mantenha os dados salvos mesmo após o fechamento do aplicativo.
 
 Funcionalidades
