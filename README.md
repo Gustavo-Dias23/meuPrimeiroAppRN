@@ -28,7 +28,7 @@ Clone o repositório do projeto:
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/Gustavo-Dias23/meuPrimeiroAppRN.git
 Navegue até o diretório do projeto:
 
 bash
